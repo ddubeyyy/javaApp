@@ -4,5 +4,6 @@
 <p> In this we are going to deploy things manually</p>
 <p>Hello</p>
 <a href="about.jsp">About page</a>
+<a href="services.jsp">Services page</a>
 </body>
 </html>
